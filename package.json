@@ -17,14 +17,14 @@
     "font-awesome": "~4.7.0",
     "jquery": "~3.2.1",
     "jquery-ujs": "~1.2.2",
-    "node-sass": "~4.5.3",
+    "node-sass": "~6.0.1",
     "npm-install-webpack-plugin": "4.0.4",
     "path": "~0.12.7",
     "sass-loader": "~6.0.5",
     "style-loader": "~0.18.2",
     "uglifyjs-webpack-plugin": "~0.4.6",
     "url-loader": "~0.5.9",
-    "webpack": "~2.3.0",
+    "webpack": "~4.0.0",
     "webpack-manifest-plugin": "~1.2.1"
   }
 }
